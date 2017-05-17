@@ -1,0 +1,12 @@
+ir norte
+ir sur
+ir este
+ir oeste
+atacar lobo
+inventario
+equipar palo
+estado
+mirar palo
+ayuda
+
+salir

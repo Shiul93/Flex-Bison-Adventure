@@ -1,0 +1,750 @@
+luis@Chigre:~/Documents/Universidad/PL/Practicas/aventura$ ./aventura
+Ves un playa
+No parece haber enemigos en la zona
+>>ir norte
+Caminas hacia el Norte
+Ves un volcan
+rondando la zona hay un  lobo
+5,6
+
+>>ir norte
+Caminas hacia el Norte
+Ves un volcan
+rondando la zona hay un  oso
+5,7
+
+>>inventario
+Miras lo que llevas encima y encuentras un palo
+
+
+>>equipar palo
+Equipas un palo
+
+>>ir norte
+Caminas hacia el Norte
+Ves un cueva
+No parece haber enemigos en la zona
+Alguien se ha dejado un palo en el suelo
+5,8
+
+>>mirar palo
+UN PALOOOOOOOO! ES UN PALOOOOOO!
++2 puntos de ataque
+
+>>ir norte
+Caminas hacia el Norte
+Ves un bosque
+No parece haber enemigos en la zona
+5,9
+
+>>ir este
+Caminas hacia el Este
+Ves un cueva
+No parece haber enemigos en la zona
+6,9
+
+>>ir sur
+Caminas hacia el Sur
+Ves un bosque
+rondando la zona hay un  lobo
+6,8
+
+>>ir sur
+Caminas hacia el Sur
+Ves un playa
+No parece haber enemigos en la zona
+6,7
+
+>>ir sur
+Caminas hacia el Sur
+Ves un bosque
+rondando la zona hay un  lobo
+6,6
+
+>>ir sur
+Caminas hacia el Sur
+Ves un valle
+rondando la zona hay un  juandopico
+6,5
+
+>>ir sur
+Caminas hacia el Sur
+Ves un cueva
+No parece haber enemigos en la zona
+6,4
+
+>>mirar cueva
+Una cueva oscura
+
+>>ir sur
+Caminas hacia el Sur
+Ves un casa
+No parece haber enemigos en la zona
+Alguien se ha dejado un pala en el suelo
+6,3
+
+>>ir sur
+Caminas hacia el Sur
+Ves un playa
+rondando la zona hay un  juandopico
+6,2
+
+>>mirar juandopicop
+Comando desconocido
+>>mirar juandopico
+Observas un juandopico
+	Nombre:  Juan Dopico
+	Puntos de Vida: 8
+	Ataque: 3
+	Defensa: 4
+Te mira a los ojos, con desprecio, y golpea tu cara mal texturizada con un prominente bitch slap
+(***MLG***)
+
+>>ir sur
+Caminas hacia el Sur
+Ves un cueva
+rondando la zona hay un  juandopico
+Alguien se ha dejado un espada en el suelo
+6,1
+
+>>mirar juandopico
+Observas un juandopico
+	Nombre:  Juan Dopico
+	Puntos de Vida: 1
+	Ataque: 11
+	Defensa: 1
+Te mira a los ojos, con desprecio, y golpea tu cara mal texturizada con un prominente bitch slap
+(***MLG***)
+
+>>coger espada
+Enemigos guardan la zona, no has podido coger nada
+
+>>mirar espada
+Una espada, no la agarres por el lado puntiagudo!
+ +10 puntos de ataque
+
+>>atacar juandopico
+Atacas a tu enemigo,  6 puntos de daño!
+Has vencido a Juan Dopico!
+
+>>coger espada
+Has recogido una  espada
+
+>>estado
+Vida: 20
+Ataque: 7
+Defensa: 0
+
+>>equipar esoada
+Comando desconocido
+>>equipar espada
+Equipas un espada
+
+>>estado
+Vida: 20
+Ataque: 15
+Defensa: 0
+
+>>ir sur
+Caminas hacia el Sur
+Ves un casa
+rondando la zona hay un  lobo
+6,0
+
+>>ir este
+Caminas hacia el Este
+Ves un cueva
+rondando la zona hay un  perro
+7,0
+
+>>ir norte
+Caminas hacia el Norte
+Ves un bosque
+rondando la zona hay un  juandopico
+7,1
+
+>>ir norte
+Caminas hacia el Norte
+Ves un valle
+No parece haber enemigos en la zona
+7,2
+
+>>ir norte
+Caminas hacia el Norte
+Ves un valle
+No parece haber enemigos en la zona
+7,3
+
+>>ir norte
+Caminas hacia el Norte
+Ves un cueva
+rondando la zona hay un  murloc
+Alguien se ha dejado un cofre en el suelo
+7,4
+
+>>coger cofre
+Enemigos guardan la zona, no has podido coger nada
+
+>>mirar murloc
+Observas un murloc
+	Nombre:  Belanimimus
+	Puntos de Vida: 8
+	Ataque: 3
+	Defensa: 3
+Un murloc (WTF)
+
+>>atacar murloc
+Atacas a tu enemigo,  12 puntos de daño!
+Has vencido a Belanimimus!
+
+>>coger cofre
+Tienes los bolsillos llenos,
+¿quieres intercambiar los objetos? [si/no]
+si
+Has intercambiado objetos
+
+>>inventario
+Miras lo que llevas encima y encuentras un cofre
+
+en tus manos llevas un espada
+
+>>ir norte
+Caminas hacia el Norte
+Ves un volcan
+rondando la zona hay un  lobo
+7,5
+
+>>ir norte
+Caminas hacia el Norte
+Ves un playa
+rondando la zona hay un  oso
+7,6
+
+>>ir norte
+Caminas hacia el Norte
+Ves un playa
+No parece haber enemigos en la zona
+7,7
+
+>>ir norte
+Caminas hacia el Norte
+Ves un bosque
+rondando la zona hay un  perro
+7,8
+
+>>ir norte
+Caminas hacia el Norte
+Ves un cueva
+rondando la zona hay un  oso
+7,9
+
+>>ir este
+Caminas hacia el Este
+Ves un playa
+No parece haber enemigos en la zona
+8,9
+
+>>ir sur
+Caminas hacia el Sur
+Ves un cueva
+No parece haber enemigos en la zona
+8,8
+
+>>ir sur
+Caminas hacia el Sur
+Ves un bosque
+rondando la zona hay un  juandopico
+8,7
+
+>>ir sur
+Caminas hacia el Sur
+Ves un casa
+rondando la zona hay un  juandopico
+8,6
+
+>>ir sur
+Caminas hacia el Sur
+Ves un volcan
+No parece haber enemigos en la zona
+8,5
+
+>>ir sur
+Caminas hacia el Sur
+Ves un volcan
+rondando la zona hay un  oso
+8,4
+
+>>ir sur
+Caminas hacia el Sur
+Ves un volcan
+No parece haber enemigos en la zona
+8,3
+
+>>ir sru
+Comando desconocido
+>>ir sur
+Caminas hacia el Sur
+Ves un bosque
+No parece haber enemigos en la zona
+8,2
+
+>>ir sur
+Caminas hacia el Sur
+Ves un casa
+No parece haber enemigos en la zona
+8,1
+
+>>ir sru
+Comando desconocido
+>>ir sur
+Caminas hacia el Sur
+Ves un playa
+rondando la zona hay un  araña
+8,0
+
+>>ir este
+Caminas hacia el Este
+Ves un cueva
+No parece haber enemigos en la zona
+9,0
+
+>>ir norte
+Caminas hacia el Norte
+Ves un casa
+No parece haber enemigos en la zona
+9,1
+
+>>ir norte
+Caminas hacia el Norte
+Ves un playa
+rondando la zona hay un  oso
+9,2
+
+>>ir norte
+Caminas hacia el Norte
+Ves un volcan
+No parece haber enemigos en la zona
+9,3
+
+>>ir norte
+Caminas hacia el Norte
+Ves un playa
+rondando la zona hay un  oso
+9,4
+
+>>ir noret
+Comando desconocido
+>>ir norte
+Caminas hacia el Norte
+Ves un playa
+rondando la zona hay un  lobo
+9,5
+
+>>ir norte
+Caminas hacia el Norte
+Ves un casa
+No parece haber enemigos en la zona
+9,6
+
+>>ir norte
+Caminas hacia el Norte
+Ves un cueva
+rondando la zona hay un  perro
+9,7
+
+>>ir norte
+Caminas hacia el Norte
+Ves un playa
+rondando la zona hay un  oso
+9,8
+
+>>ir norte
+Caminas hacia el Norte
+Ves un cueva
+No parece haber enemigos en la zona
+9,9
+
+>>ir oeste
+Caminas hacia el Oeste
+Ves un playa
+No parece haber enemigos en la zona
+8,9
+
+>>ir oeste
+Caminas hacia el Oeste
+Ves un cueva
+rondando la zona hay un  oso
+7,9
+
+>>ir oeste
+Caminas hacia el Oeste
+Ves un cueva
+No parece haber enemigos en la zona
+6,9
+
+>>ir oeste
+Caminas hacia el Oeste
+Ves un bosque
+No parece haber enemigos en la zona
+5,9
+
+>>ir oeste
+Caminas hacia el Oeste
+Ves un casa
+rondando la zona hay un  murloc
+4,9
+
+>>ir sur
+Caminas hacia el Sur
+Ves un playa
+rondando la zona hay un  murloc
+4,8
+
+>>ir sru
+Comando desconocido
+>>ir sur
+Caminas hacia el Sur
+Ves un valle
+No parece haber enemigos en la zona
+4,7
+
+>>ir dur
+Comando desconocido
+>>ir sur
+Caminas hacia el Sur
+Ves un casa
+rondando la zona hay un  araña
+4,6
+
+>>ir sru
+Comando desconocido
+>>mirar araña
+Observas un araña
+	Nombre:  Evanim
+	Puntos de Vida: 8
+	Ataque: 15
+	Defensa: 3
+Una araña, con ocho patas
+
+>>atacar araña
+Atacas a tu enemigo,  12 puntos de daño!
+Has vencido a Evanim!
+
+>>ir sur
+Caminas hacia el Sur
+Ves un cueva
+rondando la zona hay un  araña
+4,5
+
+>>ir sur
+Caminas hacia el Sur
+Ves un cueva
+rondando la zona hay un  murloc
+4,4
+
+>>ir sru
+Comando desconocido
+>>ir sur
+Caminas hacia el Sur
+Ves un playa
+rondando la zona hay un  juandopico
+4,3
+
+>>ir sur
+Caminas hacia el Sur
+Ves un bosque
+No parece haber enemigos en la zona
+4,2
+
+>>ir sur
+Caminas hacia el Sur
+Ves un playa
+No parece haber enemigos en la zona
+4,1
+
+>>ir sru
+Comando desconocido
+>>ir sur
+Caminas hacia el Sur
+Ves un bosque
+No parece haber enemigos en la zona
+4,0
+
+>>ir oeste
+Caminas hacia el Oeste
+Ves un cueva
+No parece haber enemigos en la zona
+3,0
+
+>>ir norte
+Caminas hacia el Norte
+Ves un cueva
+rondando la zona hay un  juandopico
+3,1
+
+>>ir norte
+Caminas hacia el Norte
+Ves un playa
+No parece haber enemigos en la zona
+3,2
+
+>>ir norte
+Caminas hacia el Norte
+Ves un casa
+rondando la zona hay un  perro
+3,3
+
+>>ir norte
+Caminas hacia el Norte
+Ves un playa
+No parece haber enemigos en la zona
+3,4
+
+>>ir norte
+Caminas hacia el Norte
+Ves un playa
+rondando la zona hay un  araña
+3,5
+
+>>ir norte
+Caminas hacia el Norte
+Ves un playa
+No parece haber enemigos en la zona
+3,6
+
+>>ir norte
+Caminas hacia el Norte
+Ves un playa
+No parece haber enemigos en la zona
+3,7
+
+>>ir norte
+Caminas hacia el Norte
+Ves un casa
+rondando la zona hay un  lobo
+3,8
+
+>>ir norte
+Caminas hacia el Norte
+Ves un casa
+rondando la zona hay un  perro
+3,9
+
+>>ir oeste
+Caminas hacia el Oeste
+Ves un bosque
+No parece haber enemigos en la zona
+2,9
+
+>>ir sur
+Caminas hacia el Sur
+Ves un valle
+No parece haber enemigos en la zona
+2,8
+
+>>ir sur
+Caminas hacia el Sur
+Ves un valle
+No parece haber enemigos en la zona
+2,7
+
+>>ir sur
+Caminas hacia el Sur
+Ves un playa
+No parece haber enemigos en la zona
+2,6
+
+>>ir sur
+Caminas hacia el Sur
+Ves un volcan
+rondando la zona hay un  oso
+2,5
+
+>>ir sur
+Caminas hacia e
+l Sur
+Ves un volcan
+rondando la zona hay un  murloc
+2,4
+
+>>ir sur
+Caminas hacia el Sur
+Ves un casa
+No parece haber enemigos en la zona
+2,3
+
+>>ir sur
+Caminas hacia el Sur
+Ves un cueva
+rondando la zona hay un  lobo
+2,2
+
+>>ir sru
+Comando desconocido
+>>ir sur
+Caminas hacia el Sur
+Ves un valle
+No parece haber enemigos en la zona
+2,1
+
+>>ir sur
+Caminas hacia el Sur
+Ves un cueva
+rondando la zona hay un  perro
+2,0
+
+>>ir oeste
+Caminas hacia el Oeste
+Ves un bosque
+No parece haber enemigos en la zona
+1,0
+
+>>ir norte
+Caminas hacia el Norte
+Ves un valle
+rondando la zona hay un  perro
+1,1
+
+>>ir norte
+Caminas hacia el Norte
+Ves un bosque
+No parece haber enemigos en la zona
+1,2
+
+>>ir norte
+Caminas hacia el Norte
+Ves un cueva
+No parece haber enemigos en la zona
+1,3
+
+>>ir norte
+Caminas hacia el Norte
+Ves un valle
+No parece haber enemigos en la zona
+1,4
+
+>>ir nortr
+Comando desconocido
+>>ir norte
+Caminas hacia el Norte
+Ves un playa
+No parece haber enemigos en la zona
+1,5
+
+>>ir norte
+Caminas hacia el Norte
+Ves un bosque
+rondando la zona hay un  murloc
+1,6
+
+>>ir norte
+Caminas hacia el Norte
+Ves un volcan
+rondando la zona hay un  lobo
+1,7
+
+>>ir norte
+Caminas hacia el Norte
+Ves un playa
+No parece haber enemigos en la zona
+1,8
+
+>>ir norte
+Caminas hacia el Norte
+Ves un playa
+No parece haber enemigos en la zona
+1,9
+
+>>ir oeste
+Caminas hacia el Oeste
+Ves un casa
+rondando la zona hay un  juandopico
+0,9
+
+>>ir sur
+Caminas hacia el Sur
+Ves un volcan
+No parece haber enemigos en la zona
+0,8
+
+>>ir sur
+Caminas hacia el Sur
+Ves un volcan
+rondando la zona hay un  perro
+0,7
+
+>>ir sur
+Caminas hacia el Sur
+Ves un valle
+No parece haber enemigos en la zona
+0,6
+
+>>ir sur
+Caminas hacia el Sur
+Ves un bosque
+rondando la zona hay un  oso
+0,5
+
+>>ir sur
+Caminas hacia el Sur
+Ves un volcan
+No parece haber enemigos en la zona
+0,4
+
+>>ir sur
+Caminas hacia el Sur
+Ves un bosque
+No parece haber enemigos en la zona
+0,3
+
+>>ir sur
+Caminas hacia el Sur
+Ves un valle
+No parece haber enemigos en la zona
+0,2
+
+>>ir sur
+Caminas hacia el Sur
+Ves un casa
+No parece haber enemigos en la zona
+0,1
+
+>>ir sur
+Caminas hacia el Sur
+Ves un valle
+rondando la zona hay un  araña
+Alguien se ha dejado un llave en el suelo
+0,0
+
+>>por fin
+Comando desconocido
+>>Comando desconocido
+>>coger llave
+Enemigos guardan la zona, no has podido coger nada
+
+>>mirar araña
+Observas un araña
+	Nombre:  Ineptith
+	Puntos de Vida: 20
+	Ataque: 2
+	Defensa: 3
+Una araña, con ocho patas
+
+>>atacar araña
+Atacas a tu enemigo,  12 puntos de daño!
+Ineptith te ataca!
+ Recibes  2  puntos de daño!
+
+>>atacar araña
+Atacas a tu enemigo,  12 puntos de daño!
+Has vencido a Ineptith!
+
+>>coger llave
+Tienes los bolsillos llenos,
+¿quieres intercambiar los objetos? [si/no]
+si
+Has intercambiado objetos
+
+>>abrir cofre
+Abres el cofre y está lleno de oro!
+FIN DE LA PARTIDA

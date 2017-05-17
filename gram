@@ -1,0 +1,115 @@
+acciones:
+  movimiento:
+    andar, caminar, mover, ir
+  coger:
+    coger, recoger, obtener
+
+  atacar:
+    atacar, pegar
+
+  inventario
+
+  mirar:
+    mirar, inspeccionar
+
+  dormir
+
+  equipar
+
+  abrir
+
+  usar:
+    usar, utilizar
+
+  huir:
+    huir, escapar
+
+
+direcciones:
+
+  adelante, norte, frente
+
+  atras, sur
+
+  derecha, este
+
+  izquierda, oeste
+
+objetos:
+
+  llave
+
+  espada
+
+  palo
+
+  lampara
+
+  pala
+
+animales:
+
+  oso
+
+  araña
+
+  perro
+
+  lobo
+
+  murloc
+
+  ornitorrinco
+
+  JuanDopico
+
+lugares:
+
+  casa
+
+  bosque
+
+  valle
+
+  playa
+
+  volcan
+
+
+FORMAS
+
+  movimiento: <movimiento> <direccion>
+
+  coger: <coger> <objeto>
+
+  inventario: <inventario>
+
+  mirar: <mirar> <direccion> | <mirar> <lugar>
+
+  dormir: <dormir>
+
+  equipar: <equipar> <objeto>
+
+  abrir: <abrir> <objeto_que_abra>
+
+  usar: <usar> <objeto>
+
+  atacar: <atacar> <animal>
+
+
+
+  {MOVIMIENTO} {printf("MOVIMIENTO: %s\n",yytext);yylval.valString = yytext;return MOVIMIENTO;}
+  {COGER}			 {printf("COGER: %s\n",yytext);yylval.valString = yytext;return COGER;}
+  {ATACAR}		 {printf("ATACAR: %s\n",yytext);return ATACAR;}
+  {INVENTARIO} {printf("INVENTARIO: %s\n",yytext);yylval.valString = yytext;return INVENTARIO;}
+  {MIRAR} 		 {printf("MIRAR: %s\n",yytext);yylval.valString = yytext;return MIRAR;}
+  {DORMIR}     {printf("DORMIR: %s\n",yytext);yylval.valString = yytext;return DORMIR;}
+  {EQUIPAR}    {printf("EQUIPAR: %s\n",yytext);yylval.valString = yytext;return EQUIPAR;}
+  {ABRIR} 		 {printf("ABRIR: %s\n",yytext);yylval.valString = yytext;return ABRIR;}
+  {USAR}			 {printf("USAR: %s\n",yytext);yylval.valString = yytext;return USAR;}
+  {HUIR}			 {printf("HUIR: %s\n",yytext);yylval.valString = yytext;return HUIR;}
+  {DIRECCION}  {printf("DIRECCION: %s\n",yytext);yylval.valString = yytext;return DIRECCION;}
+  {OBJETO} 		 {printf("OBJETO: %s\n",yytext);yylval.valString = yytext;return OBJETO;}
+  {ANIMAL}		 {printf("ANIMAL: %s\n",yytext);yylval.valString = yytext;return ANIMAL;}
+  {LUGAR}			 {printf("LUGAR: %s\n",yytext);yylval.valString = yytext;return LUGAR;}
+  {ws}				 {}
